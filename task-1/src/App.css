@@ -1,0 +1,19 @@
+.App {
+ width: 1000px;
+ margin: 0 auto;
+ display: flex;
+ justify-content: center;
+}
+
+.btnFirstModal{
+  width: 101px;
+  height: 41px;
+  background-color: #b3382c;
+  margin: 15px;
+  border: none;
+}
+
+.btnModal{
+  display: flex;
+  justify-content: center;
+}
