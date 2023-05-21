@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Ноутбук Apple MacBook Air 13 M1 256GB 2020",
+    "price": 44499,
+    "image": "https://content1.rozetka.com.ua/goods/images/big/144249716.jpg",
+    "article": "123456789",
+    "color": "Space Gray"
+  },
+  {
+    "id": 2,
+    "name": "Ноутбук Apple MacBook Pro 16 M2 Pro 1TB 2023",
+    "price": 137999,
+    "image": "https://content1.rozetka.com.ua/goods/images/big/308887781.jpg",
+    "article": "123456788",
+    "color": "Space Gray"
+  },
+  {
+    "id": 3,
+    "name": "Ноутбук Apple MacBook Air 13.6 M2 16/256GB 2022",
+    "price": 80999,
+    "image": "https://content.rozetka.com.ua/goods/images/big/318737274.jpg",
+    "article": "123456787",
+    "color": "Midnight"
+  },
+  {
+    "id": 4,
+    "name": "Ноутбук Lenovo Legion 5 15ITH6H",
+    "price": 70999,
+    "image": "https://content2.rozetka.com.ua/goods/images/big/320926276.jpg",
+    "article": "123456786",
+    "color": "Phantom Blue"
+  },
+  {
+    "id": 5,
+    "name": "Ноутбук Lenovo IdeaPad 3 15IGL05",
+    "price": 15999,
+    "image": "https://content.rozetka.com.ua/goods/images/big/286070979.jpg",
+    "article": "123456785",
+    "color": "Black"
+  },
+  {
+    "id": 6,
+    "name": "Ноутбук Lenovo IdeaPad Gaming 3 15ACH6",
+    "price": 45999,
+    "image": "https://content2.rozetka.com.ua/goods/images/big/320910753.jpg",
+    "article": "123456784",
+    "color": "Shadow Black"
+  },
+  {
+    "id": 7,
+    "name": "Ноутбук ASUS TUF Gaming A15 nVidia GeForce RTX 3050",
+    "price": 40999,
+    "image": "https://content1.rozetka.com.ua/goods/images/big/302686477.jpg",
+    "article": "123456783",
+    "color": "Graphite Black"
+  },
+  {
+    "id": 8,
+    "name": "Ноутбук ASUS TUF Gaming F15 nVidia GeForce GTX 1650",
+    "price": 30999,
+    "image": "https://content.rozetka.com.ua/goods/images/big/315016995.jpg",
+    "article": "123456782",
+    "color": "Bonfire Black"
+  },
+  {
+    "id": 9,
+    "name": "Ноутбук Asus ROG Strix G15 / Ryzen 7 / RTX 3050",
+    "price": 39999,
+    "image": "https://content.rozetka.com.ua/goods/images/big/315861665.jpg",
+    "article": "123456781",
+    "color": "Eclipse Gray"
+  },
+  {
+    "id": 10,
+    "name": "Ноутбук Acer Nitro 5 AN517-41-R7K1",
+    "price": 49999,
+    "image": "https://content.rozetka.com.ua/goods/images/big/309034188.jpg",
+    "article": "123456791",
+    "color": "Shale Black"
+  },
+  {
+    "id": 11,
+    "name": "Ноутбук Acer Predator Helios 300",
+    "price": 68999,
+    "image": "https://content.rozetka.com.ua/goods/images/big/290944694.jpg",
+    "article": "123456771",
+    "color": "Abyssal Black"
+  },
+  {
+    "id": 12,
+    "name": "Ноутбук Lenovo Legion 5 Pro",
+    "price": 67777,
+    "image": "https://content.rozetka.com.ua/goods/images/big/320954709.jpg",
+    "article": "123456741",
+    "color": "Stingray"
+  }
+]

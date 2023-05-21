@@ -1,0 +1,48 @@
+.container{
+  max-width: 1430px;
+  width: 100%;
+  padding: 0 15px;
+
+}
+.main{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+.card{
+  width: 400px;
+  padding: 40px 20px;
+  margin: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2), 0 4px 6px rgba(0,0,0,0.2);
+
+  &-img{
+    min-height: 300px;
+  }
+
+  &-info{
+    &-title{
+      font-size: 25px;
+      font-weight: 500;
+    }
+
+    &-price{
+      font-size: 30px;
+      text-align: right;
+      padding: 15px 0;
+    }
+
+    &-text{
+      display: flex;
+      justify-content: space-around;
+      font-size: 20px ;
+    }
+  }
+  &-btn{
+    margin-top: 35px;
+  }
+}
+
+.card-img img{
+  width: 350px;
+}
